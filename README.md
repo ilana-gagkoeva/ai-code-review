@@ -15,5 +15,4 @@ Run:
 
 python main.py review .
 
----
 
